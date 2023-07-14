@@ -1,4 +1,4 @@
-Currently learning RE and PWN.
+Currently learning RE and Pwn.
 
 <!---
 keat087/keat087 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
