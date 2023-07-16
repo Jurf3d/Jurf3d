@@ -1,4 +1,4 @@
-Currently learning RE and Pwn.
+Beginner CTFer. Learning RE and PWN.
 
 <!---
 keat087/keat087 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
